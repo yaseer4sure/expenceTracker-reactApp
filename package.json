@@ -2,7 +2,7 @@
   "name": "expense-tracker-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-username.github.io/your-repo-name",
+  "homepage": "https://yaseer4sure.github.io/expenceTracker-reactApp",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.1",
